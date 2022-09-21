@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+Tools/
+Results/
+warberry.db
